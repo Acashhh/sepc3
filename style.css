@@ -1,0 +1,133 @@
+.bigdiv{
+    display: flex;
+    justify-content: space-between;
+}
+
+.navc{
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn{
+    background-color: #f94a3d;
+    color: aliceblue;
+    border-radius: 10px;
+}
+.divd{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    width: 174px;
+height: 60px;
+top: 660px;
+left: 254px;
+border-radius: 16px;
+background-color:  #F94A3D;
+color: aliceblue;
+
+}
+
+
+h1{
+    width: 524px;
+height: 210px;
+top: 304px;
+left: 254px;
+font-family: Poppins;
+font-size: 60px;
+font-weight: 600;
+line-height: 70px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
+
+.door{
+    color:  #F94A3D;
+}
+
+#pa{
+    width: 229px;
+height: 46px;
+top: 248px;
+left: 255px;
+border-radius: 23px;
+border: 1px;
+
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    width: 340px;
+height: 383px;
+top: 1070px;
+left: 973px;
+border-radius: 20px;
+
+    
+}
+
+h3{
+    width: 337px;
+height: 174px;
+top: 1068px;
+left: 240px;
+font-family: Poppins;
+font-size: 48px;
+font-weight: 600;
+line-height: 58px;
+letter-spacing: 0em;
+text-align: left;
+color: #212244;
+
+}
+
+.carddetails{
+
+    width: 216px;
+height: 120px;
+top: 1259px;
+left: 651px;
+
+font-size: 30px;
+font-weight: 600;
+line-height: 40px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
+
+.cardimage{
+    width: 168px;
+height: 201px;
+top: 1035px;
+left: 694px;
+
+}
+
+.container2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.container-3{
+    display: flex;
+    justify-content: space-evenly
+    
+}
+
+.container-4{
+    display: flex;
+    justify-content: space-evenly;
+    padding-inline: 20px;
+   
+}
+
